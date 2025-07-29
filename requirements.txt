@@ -1,5 +1,5 @@
 streamlit
 tensorflow>=2.10
-protobuf
+protobuf>=3.20.3
 Pillow
 numpy
